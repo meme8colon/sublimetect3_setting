@@ -1,7 +1,7 @@
 {
     "user": {
-        "debug": false,
-        "delay": 0.5,
+        "debug": true,
+        "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Blueberry/cross/Blueberry - cross.gutter-theme",
         "gutter_theme_excludes": [],
@@ -28,10 +28,10 @@
                 "warnings": ""
             },
             "haml": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
+                 "@disable": false,
+                 "args": [],
+                 "excludes": []
+             },
             "htmltidy": {
                 "@disable": true,
                 "args": [

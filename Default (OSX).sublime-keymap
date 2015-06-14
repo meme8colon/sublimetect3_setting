@@ -1,15 +1,19 @@
 [
-    {
-        "keys": ["super+shift+o"],
-        "command": "color_convert",
-        "context": [
-            {
-                "key": "color_highlighter.color_convert"
-            }
-        ]
-    },
-    {
-        "keys": ["shift+super+c"],
-        "command": "null"
-    },
+	{
+		"keys": ["super+shift+o"],
+		"command": "color_convert",
+		"context": [
+			{
+				"key": "color_highlighter.color_convert"
+			}
+		]
+	},
+	{
+		"keys": ["ctrl+right"], "command": "goto_css_declaration",
+		"args": {"goto": "next"}
+	},
+	{
+		"keys": ["ctrl+left"],  "command": "goto_css_declaration",
+		"args": {"goto": "prev"}
+	}
 ]

@@ -20,6 +20,7 @@
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"FileOpTabContextMenu",
+		"DataConverter",
 		"FindKeyConflicts",
 		"Focus",
 		"GitGutter-Edge",
@@ -27,6 +28,8 @@
 		"Haml",
 		"Hayaku - tools for writing CSS faster",
 		"HTMLBeautify",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"InputSequence",
 		"Jade",
 		"Jade Snippets",
@@ -43,6 +46,7 @@
 		"Smart Delete",
 		"Sublime Files",
 		"SublimeCodeIntel",
+		"sublime-multi-number-input",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-haml",
@@ -53,13 +57,17 @@
 		"SublimeNFDToNFCPaste",
 		"Sublimerge Pro",
 		"Tag",
+		"Terminal",
 		"Theme - Cobalt2",
 		"Theme - Farzher",
+		"Theme - Spacegray",
 		"Theme - Spacegray",
 		"Unity3D"
 	],
 	"repositories":
 	[
+		"https://github.com/kope88/InputSequence.git",
+		"https://github.com/airosB/sublime-multi-number-input",
 		"https://github.com/kazu1107/InputSequence.git"
 	]
 }

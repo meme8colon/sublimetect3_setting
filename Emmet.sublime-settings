@@ -1,15 +1,16 @@
 {
+	"disable_tab_abbreviations_for_scopes": "css,less,sass,scss,stylus",
 	"snippets": {
 		"variables": {
-				"lang": "ja",
-				"locale": "ja-JP",
-				"charset": "UTF-8",
-				"indentation": "\t",
-				"newline": "\n"
+			"lang": "ja",
+			"locale": "ja-JP",
+			"charset": "UTF-8",
+			"indentation": "\t",
+			"newline": "\n"
 		},
 		"html": {
-				"filters": "html,c",
-				"profile": "html"
+			"filters": "html,c",
+			"profile": "html"
 		}
 	}
 }
