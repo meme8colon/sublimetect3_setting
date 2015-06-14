@@ -1,4 +1,9 @@
-/bootstrap/compiled.php
-.env.*.php
-.env.php
-.env
+*.cache
+*_tmp
+encoding_cache.json
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
