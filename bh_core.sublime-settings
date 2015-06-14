@@ -1,0 +1,6 @@
+[
+	{
+		"search_threshold": 50000,
+		"ignore_threshold": true
+	}
+]

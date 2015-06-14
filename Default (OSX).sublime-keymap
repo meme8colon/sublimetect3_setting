@@ -1,0 +1,15 @@
+[
+    {
+        "keys": ["super+shift+o"],
+        "command": "color_convert",
+        "context": [
+            {
+                "key": "color_highlighter.color_convert"
+            }
+        ]
+    },
+    {
+        "keys": ["shift+super+c"],
+        "command": "null"
+    },
+]
