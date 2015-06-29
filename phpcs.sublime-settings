@@ -1,0 +1,7 @@
+{
+    // "phpcs_execute_on_save": false,
+    "phpcs_additional_args": {
+        "-n": "",
+        "--standard": "PSR2"
+    }
+}

@@ -17,15 +17,32 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_000000FF</string>
+<string>mcol_337AB7FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#000000FF</string>
+<string>#337AB7FF</string>
 <key>caret</key>
-<string>#FFFFFFFF</string>
+<string>#10273BFF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#10273BFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_D3DDDD4C</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#D3DDDD4C</string>
+<key>caret</key>
+<string>#212C2CFF</string>
+<key>foreground</key>
+<string>#212C2CFF</string>
 </dict>
 </dict>
 
@@ -51,83 +68,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_DDDDDDFF</string>
+<string>mcol_419BF9FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#DDDDDDFF</string>
+<string>#419BF9FF</string>
 <key>caret</key>
-<string>#212121FF</string>
+<string>#055FBEFF</string>
 <key>foreground</key>
-<string>#212121FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_CCCCCCFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#CCCCCCFF</string>
-<key>caret</key>
-<string>#323232FF</string>
-<key>foreground</key>
-<string>#323232FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FF0000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FF0000FF</string>
-<key>caret</key>
-<string>#4C0000FF</string>
-<key>foreground</key>
-<string>#4C0000FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_E40111FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#E40111FF</string>
-<key>caret</key>
-<string>#4C0005FF</string>
-<key>foreground</key>
-<string>#4C0005FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FFEF01FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FFEF01FF</string>
-<key>caret</key>
-<string>#4C4700FF</string>
-<key>foreground</key>
-<string>#4C4700FF</string>
+<string>#055FBEFF</string>
 </dict>
 </dict>
 
@@ -166,29 +115,80 @@
 </dict>
 
 
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FF00007F</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FF00007F</string>
+<key>caret</key>
+<string>#4C0000FF</string>
+<key>foreground</key>
+<string>#4C0000FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_DDDDDDFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#DDDDDDFF</string>
+<key>caret</key>
+<string>#212121FF</string>
+<key>foreground</key>
+<string>#212121FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#263238</string>		
+				<string>#212121</string>
 				<key>caret</key>
 				<string>#c0c5ce</string>
 				<key>foreground</key>
-				<string>#80CBC470</string>
+				<string>#c0c5ce70</string>
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
 				<string>#00000030</string>
 				<key>selection</key>
-				<string>#80CBC420</string>
+				<string>#61616120</string>
 				<key>guide</key>
-				<string>#37474F80</string>
+				<string>#42424260</string>
 				<key>activeGuide</key>
-				<string>#80CBC470</string>
+				<string>#424242</string>
 				<key>stackGuide</key>
-				<string>#37474Fff</string>
+				<string>#42424280</string>
 				<key>gutterForeground</key>
-				<string>#37474F</string>
+				<string>#424242</string>
 				<key>findHighlight</key>
 				<string>#F8E71C</string>
 			</dict>
@@ -212,7 +212,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#546E7A</string>
+				<string>#444444</string>
 			</dict>
 		</dict>
 		<dict>
@@ -225,7 +225,7 @@
 				<key>foreground</key>
 				<string>#CDD3DE</string> <!-- text colour -->
 			</dict>
-		</dict>		
+		</dict>			
 		<dict>
 			<key>name</key>
 			<string>Punctuation</string>
@@ -877,7 +877,7 @@ meta.property-value support.constant.named-color.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5C7E8C</string>
+				<string>#616161</string>
 			</dict>
 		</dict>
 		<dict>
