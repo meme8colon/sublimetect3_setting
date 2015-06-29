@@ -73,12 +73,13 @@
 	"show_line_encodings": true,
 	"smart_indent": true,
 	"tab_size": 2,
+	"tabs_small": true,
 	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": false,
-	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`?。、（）「」｛｝｜！／・　【】：；＜＞",
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`?。、（）「」｛｝！　【】：；＜＞",
 	"word_wrap": false,
 	"wrap_width": 80
 }
