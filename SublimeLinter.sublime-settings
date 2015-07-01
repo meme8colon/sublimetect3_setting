@@ -107,6 +107,17 @@
 				[
 				]
 			},
+			"phpcs":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"standard": "PSR2"
+			},
 			"phplint":
 			{
 				"@disable": false,
