@@ -15,7 +15,6 @@
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"disable_formatted_linebreak": true,
-	"disable_tab_abbreviations": true,
 	"disabled_single_snippet_for_scopes": "",
 	"draw_indent_guides": true,
 	"draw_minimap_border": true,

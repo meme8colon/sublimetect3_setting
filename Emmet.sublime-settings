@@ -8,8 +8,10 @@
 			"newline": "\n"
 		},
 		"html": {
-			"filters": "html,c",
-			"profile": "html"
+			"filters": "html,c"
 		}
+	},
+	"preferences": {
+		"filter.commentAfter": "<!-- /<%= attr(\"id\", \"#\") %><%= attr(\"class\", \".\") %> -->"
 	}
 }
