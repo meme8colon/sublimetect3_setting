@@ -6,7 +6,6 @@
 	[
 		"Abacus",
 		"Alignment",
-		"All Autocomplete",
 		"AutoFileName",
 		"Autoprefixer",
 		"Better CoffeeScript",
@@ -22,6 +21,7 @@
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"CSScomb",
+		"DashDoc",
 		"DataConverter",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
