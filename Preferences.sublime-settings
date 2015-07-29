@@ -75,7 +75,7 @@
 	"tab_size": 2,
 	"tabs_small": true,
 	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": false,
