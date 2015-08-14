@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
-<plist version="2.4">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="2.4">
 <dict>
 	<key>author</key>
-	<string>Mattia Astorino (http:&#x2f;&#x2f;astorinomattia.it)</string>
+	<string>Mattia Astorino (http://astorinomattia.it)</string>
 	<key>name</key>
 	<string>Material Theme</string>
 	<key>semanticClass</key>
@@ -13,145 +12,6 @@
 	<string>sRGB</string>
 	<key>settings</key>
 	<array>
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FFFFFFFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FFFFFFFF</string>
-<key>caret</key>
-<string>#000000FF</string>
-<key>foreground</key>
-<string>#000000FF</string>
-</dict>
-</dict>
-
-
-<<<<<<< HEAD
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FF0000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FF0000FF</string>
-<key>caret</key>
-<string>#4C0000FF</string>
-<key>foreground</key>
-<string>#4C0000FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_0000FFFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#0000FFFF</string>
-<key>caret</key>
-<string>#00004CFF</string>
-<key>foreground</key>
-<string>#00004CFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_008000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#008000FF</string>
-<key>caret</key>
-<string>#7FFF7FFF</string>
-<key>foreground</key>
-<string>#7FFF7FFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_000000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#000000FF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-<key>foreground</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_0F0F0FFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#0F0F0FFF</string>
-<key>caret</key>
-<string>#F0F0F0FF</string>
-<key>foreground</key>
-<string>#F0F0F0FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_00FF00FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#00FF00FF</string>
-<key>caret</key>
-<string>#004C00FF</string>
-<key>foreground</key>
-<string>#004C00FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FFFF00FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FFFF00FF</string>
-<key>caret</key>
-<string>#4C4C00FF</string>
-<key>foreground</key>
-<string>#4C4C00FF</string>
-</dict>
-</dict>
-
-
-=======
->>>>>>> 111b016017f5da8545837573a4e426b4212379d8
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -211,7 +71,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CDD3DE</string> <!-- text colour -->
+				<string>#CDD3DE</string> 
 			</dict>
 		</dict>		
 		<dict>
@@ -455,7 +315,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
 				<string>#78ccf0ff</string>
 			</dict>
@@ -859,7 +719,7 @@ meta.property-value support.constant.named-color.css</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Comment line &#x2f;&#x2f;</string>
+			<string>Comment line //</string>
 			<key>scope</key>
 			<string>comment.line.double-slash punctuation.definition.comment, meta.structure.array comment.block.json punctuation.definition.comment</string>
 			<key>settings</key>
@@ -959,7 +819,47 @@ source.sass keyword.other.unit</string>
 				<string>#F77669</string>
 			</dict>
 		</dict>
-	</array>
+	<dict>
+            <key>name</key>
+            <string>Python Flake8 Lint Gutter Mark</string>
+            <key>scope</key>
+            <string>flake8lint.mark.gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>Python Flake8 Lint Critical</string>
+            <key>scope</key>
+            <string>flake8lint.mark.critical</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#981600</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>Python Flake8 Lint Warning</string>
+            <key>scope</key>
+            <string>flake8lint.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#EDBA00</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>Python Flake8 Lint Error</string>
+            <key>scope</key>
+            <string>flake8lint.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DA2000</string>
+            </dict>
+        </dict></array>
 	<key>uuid</key>
 	<string>133d1250-19c6-4565-bc93-b37fd36f7fc9</string>
 </dict>
