@@ -1,5 +1,4 @@
 {
-	"disable_tab_abbreviations_for_scopes": "css,less,sass,scss,stylus",
 	"snippets": {
 		"variables": {
 			"lang": "ja",
