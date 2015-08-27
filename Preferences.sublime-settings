@@ -7,7 +7,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Material-Theme (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
 	"detect_indentation": false,
@@ -33,27 +33,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-<<<<<<< HEAD
-=======
-		"All Autocomplete",
-		"Better TypeScript",
-		"BlessCss",
-		"Bootstrap 3 Jade Snippets",
-		"Browser Refresh",
-		"BufferScroll",
-		"cdnjs",
-		"Foundation 5 Snippets",
-		"Haml",
-		"Jade",
-		"Jade Build",
-		"Jade Snippets",
-		"Mocha Snippets",
-		"Python Auto-Complete",
-		"SASS Build",
-		"SublimeServer",
-		"Theme - Aristocat",
-		"Theme - Farzher",
->>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -78,10 +57,7 @@
 	[
 		80
 	],
-<<<<<<< HEAD
-=======
 	"scroll_past_end": true,
->>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 	"scroll_speed": 2.0,
 	"shift_tab_unindent": true,
 	"show_encoding": true,
