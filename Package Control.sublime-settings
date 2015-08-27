@@ -7,12 +7,16 @@
 		"Abacus",
 		"AdvancedNewFile",
 		"Alignment",
+<<<<<<< HEAD
 		"All Autocomplete",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"AngularJS",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Backbone.js",
 		"Better CoffeeScript",
+<<<<<<< HEAD
 		"Better TypeScript",
 		"Blade Snippets",
 		"Blade Spacer",
@@ -25,15 +29,29 @@
 		"BufferScroll",
 		"Can I Use",
 		"cdnjs",
+=======
+		"Blade Snippets",
+		"Blade Spacer",
+		"Bootstrap 3 Snippets",
+		"BoundKeys",
+		"BracketHighlighter",
+		"Can I Use",
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"CloseCommentTag",
 		"Codecs33",
 		"Color Highlighter",
 		"ColorPicker",
+<<<<<<< HEAD
 		"Compass",
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"CSScomb",
 		"Dart",
+=======
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CSScomb",
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"DashDoc",
 		"DataConverter",
 		"DocBlockr",
@@ -44,12 +62,18 @@
 		"FindKeyConflicts",
 		"Focus",
 		"Focus Last Tab",
+<<<<<<< HEAD
 		"Foundation 5 Snippets",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"Git",
 		"GitGutter-Edge",
 		"GotoDocumentation",
 		"Gulp",
+<<<<<<< HEAD
 		"Haml",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"Handlebars",
 		"Hayaku - tools for writing CSS faster",
 		"HTML-CSS-JS Prettify",
@@ -59,18 +83,24 @@
 		"Inc-Dec-Value",
 		"Increment Selection",
 		"InputSequence",
+<<<<<<< HEAD
 		"Jade",
 		"Jade Build",
 		"Jade Snippets",
 		"Jasmine CoffeeScript",
 		"Jasmine JS",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"JavaScript Console",
 		"JavaScript Patterns",
 		"jQuery",
 		"Keymaps",
 		"Laravel Blade Highlighter",
+<<<<<<< HEAD
 		"LESS",
 		"LESS-build",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"LineEndings",
 		"List stylesheet variables",
 		"LiveReload",
@@ -80,11 +110,15 @@
 		"Material Color Scheme",
 		"Material Theme",
 		"Material Theme - White Panels",
+<<<<<<< HEAD
 		"Mocha Snippets",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"Nettuts+ Fetch",
 		"Origami",
 		"Package Control",
 		"Phpcs",
+<<<<<<< HEAD
 		"Python Auto-Complete",
 		"Python Flake8 Lint",
 		"Quick File Open",
@@ -92,6 +126,11 @@
 		"Ruby Slim",
 		"Sass",
 		"SASS Build",
+=======
+		"Quick File Open",
+		"RecentActiveFiles",
+		"Sass",
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"SASS Snippets",
 		"SassBeautify",
 		"SCSS",
@@ -101,15 +140,22 @@
 		"SideBarEnhancements",
 		"Smart Delete",
 		"Smarty",
+<<<<<<< HEAD
 		"Stylus",
 		"Sublime Files",
 		"sublime-github",
+=======
+		"Sublime Files",
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"sublime-multi-number-input",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
+<<<<<<< HEAD
 		"SublimeLinter-haml",
+=======
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsl",
 		"SublimeLinter-json",
@@ -117,6 +163,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phplint",
 		"SublimeNFDToNFCPaste",
+<<<<<<< HEAD
 		"SublimeOnSaveBuild",
 		"Sublimerge Pro",
 		"SublimeServer",
@@ -132,6 +179,16 @@
 		"Unity3D",
 		"W3CValidators",
 		"Worksheet"
+=======
+		"Sublimerge Pro",
+		"SyncedSideBar",
+		"Tag",
+		"Terminal",
+		"Theme - Spacegray",
+		"W3CValidators",
+		"Worksheet",
+		"Zip Browser"
+>>>>>>> 0d50b93040e904bbf54b42fd3b49dd59176b8b18
 	],
 	"repositories":
 	[
