@@ -40,13 +40,15 @@
                 "excludes": []
             },
             "jshint": {
-                "@disable": true,
+                "@disable": false,
                 "args": [],
                 "excludes": []
             },
             "jsl": {
-                "@disable": false,
-                "args": [],
+                "@disable": true,
+                "args": [
+                    "/usr/local/bin/gjslint"
+                ],
                 "excludes": []
             },
             "json": {
