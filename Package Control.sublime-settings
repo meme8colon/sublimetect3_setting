@@ -10,6 +10,7 @@
 		"Alignment",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
+		"Autoprefixer",
 		"Backbone.js",
 		"Better CoffeeScript",
 		"Blade Snippets",
@@ -21,7 +22,9 @@
 		"Can I Use",
 		"CloseCommentTag",
 		"Codecs33",
+		"codic",
 		"ColorPicker",
+		"Colorsublime",
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"CSScomb",
@@ -107,6 +110,7 @@
 		"https://github.com/kope88/InputSequence.git",
 		"https://github.com/airosB/sublime-multi-number-input",
 		"https://github.com/kazu1107/InputSequence.git",
-		"https://github.com/astronaughts/SublimeStyleStats"
+		"https://github.com/astronaughts/SublimeStyleStats",
+		"https://github.com/kenji-namba/codic-sublime-plugin"
 	]
 }
