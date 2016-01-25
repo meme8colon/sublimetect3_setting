@@ -4022,6 +4022,7 @@
 <dict>
 <key>background</key>
 <string>#FFFFFFFF</string>
+<<<<<<< HEAD
 <key>foreground</key>
 <string>#000000FF</string>
 <key>caret</key>
@@ -7274,13 +7275,20 @@
 <string>#00000000</string>
 <key>caret</key>
 <string>#FFFFFFFF</string>
+=======
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+>>>>>>> 608fc1fed596176d06cca18fb6818311667acc01
 </dict>
 </dict>
 
 <dict>
 <key>name</key>
-<string>mon_color</string>
+<string>mon_text_color</string>
 <key>scope</key>
+<<<<<<< HEAD
 <string>mcol_f59e00FF</string>
 <key>settings</key>
 <dict>
@@ -7405,6 +7413,20 @@
 </dict>
 </dict>
 
+=======
+<string>mcol_text_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#263239FF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+>>>>>>> 608fc1fed596176d06cca18fb6818311667acc01
 		<dict>
 			<key>settings</key>
 			<dict>
