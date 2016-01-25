@@ -1,3 +1,32 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"InputSequence",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript Console",
+		"JavaScript Patterns",
+		"jQuery",
+		"Keymaps",
+		"Laravel Blade Highlighter",
+		"LineEndings",
+		"List stylesheet variables",
+		"LiveReload",
+		"LiveStyle",
+		"Nettuts+ Fetch",
+		"Phpcs",
+		"Quick File Open",
+		"RecentActiveFiles",
+		"SassBeautify",
+		"Search WordPress Codex or QueryPosts",
+		"sublime-multi-number-input",
+		"SublimeLinter-coffee",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-json",
+		"Tag",
+		"Vintage",
+		"W3CValidators"
+	]
 }
