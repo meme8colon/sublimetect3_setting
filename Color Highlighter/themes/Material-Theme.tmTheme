@@ -4,11 +4,11 @@
 <plist version="2.4">
 <dict>
 	<key>author</key>
-	<string>Mattia Astorino (http:&#x2f;&#x2f;astorinomattia.it)</string>
+	<string>Mattia Astorino (http://astorinomattia.it)</string>
 	<key>name</key>
 	<string>Material Theme</string>
 	<key>semanticClass</key>
-	<string>theme.dark.material_theme</string>
+	<string>theme.material_theme</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>settings</key>
@@ -49,7 +49,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#263238</string>		
+				<string>#263238</string>
 				<key>caret</key>
 				<string>#FFCC00</string>
 				<key>foreground</key>
@@ -70,8 +70,10 @@
 				<string>#37474F</string>
 				<key>findHighlight</key>
 				<string>#F8E71C</string>
+				<key>tagsOptions</key>
+				<string>underline</string>
 				<key>shadow</key>
-				<string>#00000010</string>					
+				<string>#00000010</string>
 			</dict>
 		</dict>
 		<dict>
@@ -104,9 +106,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CDD3DE</string> <!-- text colour -->
+				<string>#CDD3DE</string>
 			</dict>
-		</dict>		
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Punctuation</string>
@@ -126,7 +128,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d9f5ddff</string>
+				<string>#99b89dff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,7 +139,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d9f5ddff</string>
+				<string>#39ADB5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,19 +168,18 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.require, support.function.any-method,
-meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
+			<string>entity.name.function, meta.require, support.function.any-method, meta.function-call, support.function, keyword.other.special-method, meta.block-level, meta.function-call.method.with-arguments variable.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#82B1FF</string>
+				<string>#89DDFF</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, entity.name.type.class, variable.language.this.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -223,7 +224,7 @@ meta.function-call, support.function, keyword.other.special-method, meta.block-l
 			<string>Support</string>
 			<key>scope</key>
 			<string>support.function,
-keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, meta.function-call meta.function-call.arguments variable.parameter.function, text.html.markdown meta.paragraph meta.link.inline, text.html.markdown meta.paragraph meta.link.inline punctuation.definition.string.begin.markdown, text.html.markdown meta.paragraph meta.link.inline punctuation.definition.string.end.markdown</string>
+keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, meta.function-call meta.function-call.arguments variable.parameter.function, text.html.markdown meta.paragraph meta.link.inline, text.html.markdown meta.paragraph meta.link.inline punctuation.definition.string.begin.markdown, text.html.markdown meta.paragraph meta.link.inline punctuation.definition.string.end.markdown, source.js, source.gulpfile.js variable.other.object.js, source.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -261,6 +262,17 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<dict>
 				<key>foreground</key>
 				<string>#F77669</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arguments</string>
+			<key>scope</key>
+			<string>meta.function-call meta.function-call.arguments</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -522,7 +534,7 @@ meta.property-value support.constant.named-color.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80CBC4</string>
+				<string>#F77669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -798,10 +810,7 @@ meta.property-value support.constant.named-color.css</string>
 			<key>name</key>
 			<string>Styles Units</string>
 			<key>scope</key>
-			<string>source.css keyword.other.unit,
-source.less keyword.other.unit,
-source.scss keyword.other.unit,
-source.sass keyword.other.unit</string>
+			<string>source.css keyword.other.unit, source.less keyword.other.unit, source.scss keyword.other.unit, source.sass keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -817,6 +826,28 @@ source.sass keyword.other.unit</string>
 			<dict>
 				<key>foreground</key>
 				<string>#7986CB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LESS: misc variables</string>
+			<key>scope</key>
+			<string>source.less parameter.less variable.parameter.misc.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7986CB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LESS: property string</string>
+			<key>scope</key>
+			<string>source.less meta.property-value.css string.quoted.double.css comment markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C3E88D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -850,6 +881,61 @@ source.sass keyword.other.unit</string>
 			<dict>
 				<key>foreground</key>
 				<string>#F77669</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gulpfile: Functions variables</string>
+			<key>scope</key>
+			<string>source.gulpfile.js meta.group.braces.round meta.group.braces.curly meta.group.braces.round meta.function-call.with-arguments.js variable.function.js, source.gulpfile.js meta.group.braces.round meta.group.braces.curly variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7986CB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support functions</string>
+			<key>scope</key>
+			<string>meta.function-call support.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFEB95</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Python: Argument variable</string>
+			<key>scope</key>
+			<string>source.python meta.function-call.arguments.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7986CB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP: html tags</string>
+			<key>scope</key>
+			<string>embedding.php entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDDDDD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GO: function call</string>
+			<key>scope</key>
+			<string>source.go meta.function-call.go</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDDDDD</string>
 			</dict>
 		</dict>
 	</array>
