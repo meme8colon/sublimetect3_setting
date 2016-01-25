@@ -1,24 +1,3 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"ignored_packages":
-	[
-		"Abacus",
-		"AdvancedNewFile",
-		"Alignment",
-		"ApacheConf.tmLanguage",
-		"AutoFileName",
-		"Backbone.js",
-		"Better CoffeeScript",
-		"Blade Snippets",
-		"Blade Spacer",
-		"Bootstrap 3 Jade Snippets",
-		"Bootstrap 3 Snippets",
-		"CloseCommentTag",
-		"CSS Snippets",
-		"DocBlockr",
-		"Emmet",
-		"FileOpTabContextMenu",
-		"FindKeyConflicts",
-		"Vintage"
-	]
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 }
