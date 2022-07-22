@@ -1,0 +1,7 @@
+{
+	"telemetry": true,
+	"uid": "a9ceef63-4f1f-4842-a804-d78f0d355514",
+	"ejs": {
+		"extends": "html"
+	}
+}
